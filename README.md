@@ -30,7 +30,18 @@ How to work with your contract.
   Candidates : 1  (Jeremy) 
   Vote :       1  (I get a vote)
   
-  When you click on Vote, Metamask pops ups again 
+  When you click on Vote, Metamask pops ups again. Click "Submit" to confirm vote. 
+  
+  
+  You will noticed transaction history appears in Metamask. 
+  
+  You can also go here (https://ropsten.etherscan.io/) to see transaction history.
+  
+  
+  
+  
+  
+  
   
   
   
